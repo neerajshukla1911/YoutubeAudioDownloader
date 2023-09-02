@@ -12,4 +12,5 @@ download_links = [
     # {"link": "https://www.youtube.com/watch?v=tliFU2SppN4", "download": True, "name": "नन्द बाबा घरे जन्मे कन्हैया"},
     # {"link": "https://www.youtube.com/watch?v=CL4UJEaZHlg", "download": True, "name": "tum hamare the prabhu ji(govind bhargav)"},
     # {"link": "https://www.youtube.com/watch?v=9HABo9uDngs", "download": True, "name": "Yashoda Ji Ke Dware Aaj Khushi Ayi"},
+    {"link": "https://www.youtube.com/watch?v=TYU_EWF4SOE", "download": True, "name": "Nand Ke Anand Bhayo! Janmashtami Song"},
 ]
