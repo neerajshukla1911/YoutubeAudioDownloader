@@ -1,6 +1,5 @@
 import os
 
-
 class VideoToAudioConverter:
     def __init__(self, ffmpeg_path) -> None:
         self.ffmpeg_path = ffmpeg_path

@@ -3,6 +3,7 @@ from pytube import Playlist
 from pathlib import Path
 import os
 
+
 class YoutubeVideoDownloader:
     def __init__(self) -> None:
         pass
